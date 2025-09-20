@@ -12,3 +12,4 @@
 # 1. Клонируйте репозиторий 
 ## 2. Установите зависимости: pip install -r requirements.txt 
 ### 3. Запустите бота: python bot.py 
+<img width="1131" height="940" alt="изображение" src="https://github.com/user-attachments/assets/1f2afc13-3ec0-4da5-8a9b-171aee29fa6a" />
